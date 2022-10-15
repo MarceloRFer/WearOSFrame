@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trigger</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Trigger v 1.0</string>
+    <string name="btn_start">START</string>
+    <string name="btn_pause">PAUSE</string>
+    <string name="round_txt">Round: </string>
+    <string name="grip_txt">Grip quality: </string>
+
+</resources>
